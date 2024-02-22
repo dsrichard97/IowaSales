@@ -75,8 +75,8 @@
   <section id="tech-stack">
     <h2>Tech Stack</h2>
     <ul>
-      <li>Excel </li>
       <li>Google Cloud(Google BigQuery)</li>
+      <li>Excel </li>
       <li>Looker Studio(SQL Report)</li>
       <li>Tableau</li>
     </ul>
@@ -87,12 +87,23 @@
   <section id="quick-glance">
     <h2>Quick Glance at the Results</h2>
       <p>
-      SQL dashboard
+      SQL pull from database
       <p>
         <img src="iowasale.gif">
       </p>
     <p>
       Excel dashboard
+      <p>
+        <img src="excel_db.png">
+      </p>
+     <p>
+      Looker Studio
+      <p>
+        <img src="excel_db.png">
+      </p>
+    </p>
+    <p>
+      Tableau
       <p>
         <img src="excel_db.png">
       </p>

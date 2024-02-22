@@ -29,11 +29,33 @@
     <li><a href="#quick-glance">Quick glance at the Results</a></li>
     <li><a href="#lesson-learned">Lessons learned and Recommendation</a></li>
     <li><a href="#limitation">Limitation and what can be Improved</a></li>
-    <li><a href="#local">Run Locally</a></li>
     <li><a href="#notebook">Explore the notebook</a></li>
-    <li><a href="#gradio">Deployment on Gradio</a></li>
-    <li><a href="#deployed">App deployed on Gradio</a></li>
     <li><a href="#contribution">Contribution</a></li>
     <li><a href="#license">License</a></li>
   </ul>
 </p>
+
+
+<P>
+  <section id="business-problem">
+    <h2>Business Problem</h2>
+    <p>
+      Create an interactive dashboard that visualizes various aspects of liquor sales in Iowa, including sales trends over time, comparisons of sales across different counties or cities, and insights into the most popular liquor categories.
+    </p>
+  </section>
+</P>
+
+<p>
+  <section id="data-source">
+    <h2>Data Source</h2>
+    <p>
+      The Iowa liquor sales dataset provides a comprehensive overview of wholesale purchases of liquor by retailers in the State of Iowa from January 1, 2012. As the State of Iowa controls the wholesale distribution of liquor for retail sale, this dataset gives a complete view of the retail liquor sales across the state. It encompasses wholesale orders made by various types of stores including grocery stores, liquor stores, and convenience stores. The dataset set spans for at least 28389280 rows, however, for the sake of reporting I used a sample data shrunk to 113131 rows.
+    </p>
+    <ul>
+      <li><a href="https://drive.google.com/drive/folders/11M7SStUHBRzWhk4VpHA2TjzRsH9jOpzA?usp=share_link">My Google Drive</a></li>
+    </ul>
+  </section>
+</p>
+
+
+

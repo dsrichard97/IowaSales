@@ -1,6 +1,6 @@
 <h1 align="center">Iowa Sales Dashboard</h1>
 <p align="center">
-  <img src="lqsal.jpeg" width="800" height="340" allow="autoplay">
+  <img src="lqsal.jpeg" width="400" height="340" allow="autoplay">
 </p>
 
 <p>

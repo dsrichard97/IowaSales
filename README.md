@@ -86,6 +86,11 @@
 <p>
   <section id="quick-glance">
     <h2>Quick Glance at the Results</h2>
+      <p>
+      SQL dashboard
+      <p>
+        <img src="iowasale.gif">
+      </p>
     <p>
       Excel dashboard
       <p>

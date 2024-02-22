@@ -71,7 +71,29 @@
   </section>
 </p>
 
+<p>
+  <section id="tech-stack">
+    <h2>Tech Stack</h2>
+    <ul>
+      <li>Excel </li>
+      <li>Google Cloud(Google BigQuery)</li>
+      <li>Looker Studio(SQL Report)</li>
+      <li>Tableau</li>
+    </ul>
+  </section>
+</p>
 
+<p>
+  <section id="quick-glance">
+    <h2>Quick Glance at the Results</h2>
+    <p>
+      Excel dashboard
+      <p>
+        <img src="excel_db.png">
+      </p>
+    </p>
+  </section>
+</p>
 
 
 

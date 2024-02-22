@@ -52,7 +52,7 @@
       The Iowa liquor sales dataset provides a comprehensive overview of wholesale purchases of liquor by retailers in the State of Iowa from January 1, 2012. As the State of Iowa controls the wholesale distribution of liquor for retail sale, this dataset gives a complete view of the retail liquor sales across the state. It encompasses wholesale orders made by various types of stores including grocery stores, liquor stores, and convenience stores. The dataset set spans for at least 28389280 rows, however, for the sake of reporting I used a sample data shrunk to 113131 rows.
     </p>
     <ul>
-      <li><a href="https://csulb-my.sharepoint.com/:x:/g/personal/richard_diazdeleon01_student_csulb_edu/ESgace6Mv5JKo6r6wOfZQdEBVsJDPxN4WgRzHulZcHgEHQ?e=hMdJXW">Excel Sharepoint</a></li>
+      <li><a href="https://csulb-my.sharepoint.com/:x:/g/personal/richard_diazdeleon01_student_csulb_edu/EYtynGus5R5DgXCk1WKdp-0BgBeH8GJF2gsOJ7Mf8YYZ6g?e=mtq3Bs">Excel Sharepoint</a></li>
     </ul>
   </section>
 </p>

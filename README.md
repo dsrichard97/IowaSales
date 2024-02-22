@@ -5,7 +5,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python_Version-3.10%2B-blue" title="Python Version">
-  <img src="https://img.shields.io/github/last-commit/luisosorio3214/Credit-Card-Fraud-Detection-">
   
 
   <p>

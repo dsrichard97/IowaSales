@@ -99,7 +99,7 @@
      <p>
       Looker Studio
       <p>
-        <img src="excel_db.png">
+        <img src="lookerreport.png">
       </p>
     </p>
     <p>

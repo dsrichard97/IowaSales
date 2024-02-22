@@ -58,4 +58,26 @@
 </p>
 
 
+<p>
+  <section id="methods">
+    <h2>Methods</h2>
+    <ul>
+      <li>SQL Code</li>
+      <li>Excel Dashboard</li>
+      <li>Tableau Dashboard</li>
+      <li>SQL Genrated Report</li>
+      <li>PowerPoint</li>
+    </ul>
+  </section>
+</p>
+
+
+
+
+
+
+
+
+
+
 

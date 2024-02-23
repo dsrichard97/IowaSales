@@ -108,8 +108,33 @@
         <img src="power1.png">
       </p>
     </p>
+      <ul>
+          <li>Visualizations Database: The goal is to craft compelling narratives for stakeholders. </li>
+          <li>The narrative behind each dashboard is informed by the evolving landscape of software tools available for data storytelling, each offering unique perspectives on the same dataset. Initially, an SQL query was executed to retrieve specific fields critical for analyzing the sales volume and revenue generated from liquor sales, with the dataset spanning back to January 1, 2012. This period has seen a general uptrend in retail sales through the wholesale distribution of liquor, albeit with occasional declines.
+
+The primary objective shifted towards a granular analysis at the city and county levels, aiming to decipher the nuances of Iowa's local markets. Store data was meticulously collected to include city and county information, facilitating this localized approach.
+
+The Excel dashboard was crafted to provide a straightforward visualization of the leading counties by volume and sales, showcasing the top percentages in an accessible format. This tool simplifies the identification of key performers in the state's liquor market.
+
+Additionally, the SQL report was developed to empower users with the capability to effortlessly generate detailed reports, enhancing the utility and user-friendliness of the data analysis process.
+
+Lastly, the PowerBI dashboard was meticulously designed to not only track daily sales data but also to zoom in on local area details at a micro-level. This approach offers a dynamic and detailed view of sales trends, enabling stakeholders to make informed decisions based on up-to-date, localized information.
+
+Together, these dashboards serve distinct purposes: from offering high-level overviews of market leaders to enabling deep dives into daily sales and local market dynamics. Each tool complements the others, providing a comprehensive toolkit for stakeholders to understand and act upon the intricacies of Iowa's liquor sales landscape. </li>
+        </ul>
   </section>
+<p>
+  <section id="lesson-learned">
+  <h2>Lessons Learned and Recommendation</h2>
+  <p>
+    <ul>
+      <li>During this project, I acquired valuable skills in utilizing SQL reports and crafting interactive dashboards. The initial step involved extracting relevant data from a stored database to generate ** Liquor Sales and Visualizations ** . A significant insight from this endeavor was the focus on daily sales across most dashboards, aligning with the project's objective to present different iterations of the same narrative, akin to dashboard reporting for stakeholders.
+
+However, it became evident that reducing the dataset could lead to a loss of information in other areas. This underscores the delicate balance between data comprehensiveness and specificity, especially in a professional setting where certain features may be prioritized based on managerial feedback and the necessity for continual adjustments. The robustness of the data is noteworthy, offering sufficient detail for even a novice to understand. </li> 
+    </ul>
+  </p>
 </p>
+
 
 
 

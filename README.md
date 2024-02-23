@@ -5,7 +5,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Mircosoft Excel%2B-blue" title="Microsoft Excel">
-    <img src="https://img.shields.io/badge/SQL%2B-green" title="SQL">
+  <img src="https://img.shields.io/badge/SQL%2B-green" title="SQL">
+    <img src="https://img.shields.io/badge/Looker%2B-orange" title="Looker">
+  <img src="https://img.shields.io/badge/Reports%2B-red" title="Reports">
+
 
 
   <p>

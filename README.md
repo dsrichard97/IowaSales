@@ -95,7 +95,7 @@
       Excel dashboard
       <p>
         <img src="excel_db.png">
-        <href="default.asp"><img src= "excel_db.png" alt="HTML tutorial" style="width:42px;height:42px;">
+        <href="https://csulb-my.sharepoint.com/:x:/g/personal/richard_diazdeleon01_student_csulb_edu/EYtynGus5R5DgXCk1WKdp-0BgBeH8GJF2gsOJ7Mf8YYZ6g?e=mtq3Bs"><img src= "excel_db.png" alt="HTML tutorial">
       </p>
      <p>
       Looker Studio

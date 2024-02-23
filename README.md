@@ -99,7 +99,7 @@
      <p>
       Looker Studio
       <p>
-        <img src="lookerreport.png">
+        <img src="looker1.png">
       </p>
     </p>
     <p>

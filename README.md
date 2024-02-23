@@ -136,8 +136,8 @@ However, it became evident that reducing the dataset could lead to a loss of inf
   <table>
   <thead>
     <tr>
-      <th>Key Aspect</th>
-      <th>Description</th>
+      <th>Principle</th>
+      <th>Recommendation</th>
     </tr>
   </thead>
   <tbody>

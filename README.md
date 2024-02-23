@@ -78,7 +78,7 @@
       <li>Google Cloud(Google BigQuery)</li>
       <li>Excel </li>
       <li>Looker Studio(SQL Report)</li>
-      <li>Tableau</li>
+      <li>PowerBI</li>
     </ul>
   </section>
 </p>

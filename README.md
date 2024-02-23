@@ -87,7 +87,7 @@
   <section id="quick-glance">
     <h2>Quick Glance at the Results</h2>
       <p>
-      SQL pull from database
+      SQL pull from database - Uses LIVE data for extraction
       <p>
         <img src="iowasale.gif">
       </p>

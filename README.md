@@ -97,7 +97,7 @@
         <a href="https://csulb-my.sharepoint.com/:x:/g/personal/richard_diazdeleon01_student_csulb_edu/EYtynGus5R5DgXCk1WKdp-0BgBeH8GJF2gsOJ7Mf8YYZ6g?e=mtq3Bs"><img src= "excel_db.png" alt="HTML tutorial"> </a>
       </p>
      <p>
-      Looker Studio
+      Looker Studio - SQL Generating Report
       <p>
         <img src="looker1.png">
       </p>

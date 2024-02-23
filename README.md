@@ -5,7 +5,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Mircosoft Excel%2B-blue" title="Microsoft Excel">
-  
+    <img src="https://img.shields.io/badge/SQL%2G-green" title="SQL">
+
 
   <p>
     Badge <a href="https://shields.io/">Source</a>

@@ -103,7 +103,7 @@
       </p>
     </p>
     <p>
-      Tableau
+      PowerBI
       <p>
         <img src="excel_db.png">
       </p>

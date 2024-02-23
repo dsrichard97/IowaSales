@@ -105,7 +105,7 @@
     <p>
       PowerBI
       <p>
-        <img src="excel_db.png">
+        <img src="iowa1.png">
       </p>
     </p>
   </section>

@@ -43,7 +43,7 @@
   <section id="business-problem">
     <h2>Business Problem</h2>
     <p>
-      Create an interactive dashboard that visualizes various aspects of liquor sales in Iowa, including sales trends over time, comparisons of sales across different counties or cities, and insights into the TOP counties sales.
+      Create an interactive dashboard that visualizes various aspects of liquor sales in Iowa, including sales trends over time, comparisons of sales across different counties or cities, and insights into the counties sales at the local level.
     </p>
   </section>
 </P>

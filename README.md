@@ -125,7 +125,6 @@ Lastly, the PowerBI dashboard was meticulously designed to not only track daily 
 
 Together, these dashboards serve distinct purposes: from offering high-level overviews of market leaders to enabling deep dives into daily sales and local market dynamics. Each tool complements the others, providing a comprehensive toolkit for stakeholders to understand and act upon the intricacies of Iowa's liquor sales landscape. </li>
         </ul>
-  </section>
 <p>
   <section id="lesson-learned">
   <h2>Lessons Learned and Recommendation</h2>

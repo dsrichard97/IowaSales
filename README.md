@@ -133,6 +133,37 @@ Together, these dashboards serve distinct purposes: from offering high-level ove
 However, it became evident that reducing the dataset could lead to a loss of information in other areas. This underscores the delicate balance between data comprehensiveness and specificity, especially in a professional setting where certain features may be prioritized based on managerial feedback and the necessity for continual adjustments. The robustness of the data is noteworthy, offering sufficient detail for even a novice to understand. </li> 
     </ul>
   </p>
+  <table>
+  <thead>
+    <tr>
+      <th>Key Aspect</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Data Granularity</strong></td>
+      <td>Carefully consider the level of detail required for your analysis. Focusing on daily sales provides valuable insights, but incorporating weekly or monthly trends could offer a broader perspective without overwhelming stakeholders with too much information.</td>
+    </tr>
+    <tr>
+      <td><strong>Stakeholder Feedback</strong></td>
+      <td>Regularly solicit and integrate feedback from stakeholders to ensure the dashboards remain aligned with their needs and expectations. This iterative process is crucial for maintaining the dashboards' relevance and utility.</td>
+    </tr>
+    <tr>
+      <td><strong>Feature Selection</strong></td>
+      <td>In a real-world scenario, prioritize features based on their impact on the analysis and the story you wish to convey. Not all data points are equally informative for every narrative, so select those that best support your objectives.</td>
+    </tr>
+    <tr>
+      <td><strong>User-Friendly Design</strong></td>
+      <td>Ensure that the dashboards are designed with the end-user in mind, balancing complexity with simplicity. A dashboard that is too complex may intimidate novice users, while an overly simplified one might not offer enough insight for more experienced users.</td>
+    </tr>
+    <tr>
+      <td><strong>Continual Learning</strong></td>
+      <td>The project highlights the importance of being adaptable and willing to learn new tools and techniques. The landscape of data visualization and analysis is ever-evolving, and staying current with the latest trends and software updates is key to delivering impactful insights.</td>
+    </tr>
+  </tbody>
+</table>
+
 </p>
 
 

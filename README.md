@@ -95,7 +95,7 @@
         <img src="iowasale.gif">
       </p>
     <p>
-      Excel dashboard -> Click on Image to see dashboard
+      Excel dashboard -> Click on image to see dashboard
       <p>
         <a href="https://csulb-my.sharepoint.com/:x:/g/personal/richard_diazdeleon01_student_csulb_edu/EYtynGus5R5DgXCk1WKdp-0BgBeH8GJF2gsOJ7Mf8YYZ6g?e=mtq3Bs"><img src= "excel_db.png" alt="HTML tutorial"> </a>
       </p>
@@ -106,7 +106,7 @@
       </p>
     </p>
     <p>
-      PowerBI
+      PowerBI -> Click on image to see dashboard
       <p>
         <a href="https://csulb-my.sharepoint.com/:u:/g/personal/richard_diazdeleon01_student_csulb_edu/Ef4gTbaF259OhUcmWIcQ1LYBDYZmT0U1BlOZdaP3RdQgPg?e=sgwFHp"><img src= "power1.png" alt="HTML tutorial"> </a>
       </p>

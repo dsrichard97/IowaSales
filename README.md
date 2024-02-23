@@ -165,7 +165,7 @@ However, it became evident that reducing the dataset could lead to a loss of inf
     </tr>
   </tbody>
 </table>
-</p>
+
 
 <P>
   <section id="limitation">
@@ -174,10 +174,6 @@ However, it became evident that reducing the dataset could lead to a loss of inf
       <ul>
         <li>Note: The project's limitations and areas for improvement highlight the importance of balancing data granularity, stakeholder feedback, feature selection, user-friendly design, and continual learning. While focusing on daily sales offers valuable insights, expanding the analysis to include weekly or monthly trends could provide a more comprehensive view without overwhelming users with data. </li>
         <li>Designing dashboards that are accessible to users of varying expertise levels can enhance their utility, making them neither too complex for novices nor too simplistic for experienced users. Finally, the project underscores the necessity of staying updated with the latest data visualization and analysis trends, tools, and techniques to deliver impactful insights.</li>
-    </p>
-  </section>
-</p>
-
 
 
 

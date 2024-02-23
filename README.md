@@ -109,6 +109,7 @@
       PowerBI
       <p>
         <img src="power1.png">
+        <a href="https://csulb-my.sharepoint.com/:u:/g/personal/richard_diazdeleon01_student_csulb_edu/Ef4gTbaF259OhUcmWIcQ1LYBDYZmT0U1BlOZdaP3RdQgPg?e=1whKxM"><img src= "looker1.png" alt="HTML tutorial"> </a>
       </p>
     </p>
       <ul>

@@ -95,6 +95,7 @@
       Excel dashboard
       <p>
         <img src="excel_db.png">
+        <href="default.asp"><img src= "excel_db.png" alt="HTML tutorial" style="width:42px;height:42px;">
       </p>
      <p>
       Looker Studio

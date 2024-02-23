@@ -29,9 +29,6 @@
     <li><a href="#quick-glance">Quick glance at the Results</a></li>
     <li><a href="#lesson-learned">Lessons learned and Recommendation</a></li>
     <li><a href="#limitation">Limitation and what can be Improved</a></li>
-    <li><a href="#notebook">Explore the notebook</a></li>
-    <li><a href="#contribution">Contribution</a></li>
-    <li><a href="#license">License</a></li>
   </ul>
 </p>
 

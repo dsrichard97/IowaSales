@@ -109,7 +109,7 @@
       </p>
     </p>
       <ul>
-          <li>Visualizations Database: The goal is to craft compelling narratives for stakeholders. </li>
+          <b>Visualizations Database: The goal is to craft compelling narratives for stakeholders. </b>
           <li>The narrative behind each dashboard is informed by the evolving landscape of software tools available for data storytelling, each offering unique perspectives on the same dataset. Initially, an SQL query was executed to retrieve specific fields critical for analyzing the sales volume and revenue generated from liquor sales, with the dataset spanning back to January 1, 2012. This period has seen a general uptrend in retail sales through the wholesale distribution of liquor, albeit with occasional declines.
 
 The primary objective shifted towards a granular analysis at the city and county levels, aiming to decipher the nuances of Iowa's local markets. Store data was meticulously collected to include city and county information, facilitating this localized approach.
@@ -128,7 +128,7 @@ Together, these dashboards serve distinct purposes: from offering high-level ove
   <h2>Lessons Learned and Recommendation</h2>
   <p>
     <ul>
-      <li>During this project, I acquired valuable skills in utilizing SQL reports and crafting interactive dashboards. The initial step involved extracting relevant data from a stored database to generate ** Liquor Sales and Visualizations ** . A significant insight from this endeavor was the focus on daily sales across most dashboards, aligning with the project's objective to present different iterations of the same narrative, akin to dashboard reporting for stakeholders.
+      <li>During this project, I acquired valuable skills in utilizing SQL reports and crafting interactive dashboards. The initial step involved extracting relevant data from a stored database to generate <b>Liquor Sales and Visualizations</b>. A significant insight from this endeavor was the focus on daily sales across most dashboards, aligning with the project's objective to present different iterations of the same narrative, akin to dashboard reporting for stakeholders.
 
 However, it became evident that reducing the dataset could lead to a loss of information in other areas. This underscores the delicate balance between data comprehensiveness and specificity, especially in a professional setting where certain features may be prioritized based on managerial feedback and the necessity for continual adjustments. The robustness of the data is noteworthy, offering sufficient detail for even a novice to understand. </li> 
     </ul>

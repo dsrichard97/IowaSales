@@ -159,7 +159,7 @@ However, it became evident that reducing the dataset could lead to a loss of inf
     </tr>
     <tr>
       <td><strong>Continual Learning</strong></td>
-      <td>The project highlights the importance of being adaptable and willing to learn new tools and techniques. The landscape of data visualization and analysis is ever-evolving, and staying current with the latest trends and software updates is key to delivering impactful insights.</td>
+      <td> Delving into markets necessitates continuous learning; in other words, acquiring domain knowledge is essential for producing compelling outcomes. Economically speaking, this knowledge is what provides some businesses with a competitive edge over their rivals.</td>
     </tr>
   </tbody>
 </table>
